@@ -49,14 +49,14 @@ Reference:
 AKJV can be built by cloning the repository and then running make:
 
 ```
-git clone https://github.com/0xr3v/AKJV.git
+git clone https://github.com/rofe33/AKJV.git
 cd AKJV
 make
 ```
 
 ## License
 
-The [code](https://github.com/0xr3v/kjv-layeh) is under the `Public Domain` License.
+The [code](https://github.com/rofe33/kjv-layeh) is under the `Public Domain` License.
 
 The Bible is under:
 
